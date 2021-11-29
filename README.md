@@ -57,9 +57,9 @@ src\
 
 ## Prevent Duplicate Companies
 
-The program prevents duplication of companies in Airtable.
+The program works very well with single company. Also, It can work with multiple companies too. It prevents duplication of companies in companies table.
 
-To make this function work well, please add new company to companies[0]. index of companies array in services/companies.ts file.
+When you want to make it work it with multiple companies, add new company to companies[0]. index of companies array in services/companies.ts file.
 
 Example
 
